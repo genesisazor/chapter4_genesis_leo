@@ -8,6 +8,7 @@ elif name == "Leo" or name == "Stef":
     print ("Group 3")
 
 else:
-    print (" I don't know you fck outta here" )
+    print (" I don't know you get"
+           " outta here" )
 
 
